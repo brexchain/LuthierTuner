@@ -1,0 +1,6 @@
+{
+  "name": "Luthier",
+  "description": "Professional guitar tuner, frequency laboratory, chord analyzer, and custom guitar design studio.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
